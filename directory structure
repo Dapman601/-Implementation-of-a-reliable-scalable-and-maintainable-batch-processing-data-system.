@@ -1,0 +1,9 @@
+nyc-taxi-data-pipeline/
+├── docker-compose.yml
+├── pyspark/
+│   ├── Dockerfile
+│   ├── crontab
+│   └── work/
+│       ├── ingest_data.py
+│       └── process_data.py
+└── README.md
