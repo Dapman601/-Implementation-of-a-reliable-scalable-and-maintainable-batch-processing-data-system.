@@ -1,0 +1,2 @@
+mkdir -p nyc-taxi-data-pipeline/pyspark/work
+cd nyc-taxi-data-pipeline
